@@ -1,0 +1,6 @@
+names:
+- polyp
+nc: 1
+path: /Users/noushinahmadvand/Downloads/YOLO/Kvasir_Detection_Dataset-3
+train: /Users/noushinahmadvand/Downloads/YOLO/Kvasir_Detection_Dataset-3/train
+val: /Users/noushinahmadvand/Downloads/YOLO/Kvasir_Detection_Dataset-3/val
