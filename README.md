@@ -1,4 +1,4 @@
-# 🚀 Dissertation Project: Enhancing YOLOv8 for Polyp Detection in Colonoscopy Images
+# 🚀 Enhancing YOLOv8 for Polyp Detection in Colonoscopy Images
 
 ![YOLOv8](https://img.shields.io/badge/Yolo-v8-brightgreen)
 ![Deformable Convolution](https://img.shields.io/badge/Deformable-Convolution-blue)
